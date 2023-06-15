@@ -52,6 +52,6 @@ describe '投稿のテスト' do
     before do
       visit list_path
     end
-    
+    context
   end
 end
